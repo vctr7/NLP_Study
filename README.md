@@ -1,7 +1,5 @@
 # Sentence Embedding Using Korean Corpora(한국어 임베딩) Study
 
----
-
 <img src="https://i.imgur.com/j03ENCc.jpg" width="320" height="400"> [Official Website](https://ratsgo.github.io/)
 
 During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
@@ -23,7 +21,7 @@ During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 
 - 2.1 자연어 계산과 이해
 
-- 2.2 [어떤 단어가 많이 쓰였는가]()
+- 2.2 [How does a vector have meaning](https://github.com/vctr7/NLP_Study/blob/master/ppt/How%20does%20a%20vector%20have%20meaning.pdf)
 
 - 2.3 단어가 어떤 순서로 쓰였는가
 
@@ -31,7 +29,7 @@ During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 
 ### 03. 한국어 전처리
 
-- 3.1 [Data Pre-processing]()
+- 3.1 [Data Pre-processing](https://github.com/vctr7/NLP_Study/blob/master/ppt/Data%20Pre-processing.pdf)
 
 - 3.2 지도 학습 기반 형태소 분석
 
@@ -39,17 +37,17 @@ During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 
 ### 04. Words Embedding
 
-- 4.1 [NPLM]()
+- 4.1 [NPLM](https://github.com/vctr7/NLP_Study/blob/master/ppt/NPLM.pdf)
 
-- 4.2 [Word2Vec]()
+- 4.2 [Word2Vec](https://github.com/vctr7/NLP_Study/blob/master/ppt/Word2Vec.pdf)
 
-- 4.3 [FastText]()
+- 4.3 [FastText](https://github.com/vctr7/NLP_Study/blob/master/ppt/FastText.pdf)
 
-- 4.4 [Latent Semantic Analysis]()
+- 4.4 [Latent Semantic Analysis](https://github.com/vctr7/NLP_Study/blob/master/ppt/LSA.pdf)
 
-- 4.5 [GloVe]()
+- 4.5 [GloVe](https://github.com/vctr7/NLP_Study/blob/master/ppt/GloVE.pdf)
 
--	4.6 [Swivel]()
+-	4.6 [Swivel](https://github.com/vctr7/NLP_Study/blob/master/ppt/Swivel.pdf)
 
 - 4.7 어떤 단어 임베딩을 사용할 것인가
 
@@ -63,11 +61,11 @@ During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 
 - 5.2 Doc2Vec
 
-- 5.3 잠재 디리클레 할당
+- 5.3 Latent Dirichlet Allocation
 
 - 5.4 ELMo
 
-- 5.5 트랜스포머 네트워크
+- 5.5 Transformer Network
 
 -	5.6 BERT
 
@@ -91,13 +89,13 @@ During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 
 ### Appendix
 
-- A 선형대수학 기초
+- A Linear Algebra
 
-- B 확률론 기초
+- B Probability Theory
 
-- C 뉴럴 네트워크 기초
+- C Neural Network
 
--	D 국어학 기초
+-	D Korean Linguistics
 
 
 
