@@ -27,6 +27,7 @@ During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 
 - 2.4 어떤 단어가 같이 쓰였는가
 
+
 ### 03. 한국어 전처리
 
 - 3.1 [Data Pre-processing](https://github.com/vctr7/NLP_Study/blob/master/ppt/Data%20Pre-processing.pdf)
@@ -34,6 +35,8 @@ During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 - 3.2 지도 학습 기반 형태소 분석
 
 - 3.3 비지도 학습 기반 형태소 분석
+
+- [Comparison of Morpheme Analysis](https://github.com/vctr7/NLP_Study/blob/master/ppt/Comparison%20of%20Morpheme%20analysis.pdf)
 
 ### 04. Word Embeddings
 
