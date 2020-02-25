@@ -2,10 +2,11 @@
 
 ---
 
-<img src="https://i.imgur.com/j03ENCc.jpg" width="320" height="400">
+<img src="https://i.imgur.com/j03ENCc.jpg" width="320" height="400"> [Official Website](https://ratsgo.github.io/)
 
 
 ### During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
+
 
 ---
 
@@ -31,7 +32,7 @@
 
 ### 03. 한국어 전처리
 
-- 3.1 [데이터 확보]()
+- 3.1 [Data Pre-processing]()
 
 - 3.2 지도 학습 기반 형태소 분석
 
@@ -41,15 +42,15 @@
 
 - 4.1 [NPLM]()
 
-- 4.2 Word2Vec
+- 4.2 [Word2Vec]()
 
-- 4.3 FastText
+- 4.3 [FastText]()
 
-- 4.4 잠재의미 분석
+- 4.4 [Latent Semantic Analysis]()
 
-- 4.5 GloVe
+- 4.5 [GloVe]()
 
--	4.6 Swivel
+-	4.6 [Swivel]()
 
 - 4.7 어떤 단어 임베딩을 사용할 것인가
 
@@ -103,16 +104,15 @@
 
 ## References
 
-- [Arthur's blog](https://ratsgo.github.io/)
-- asd
-- asd
-- Asd
+- [https://ratsgo.github.io/](https://ratsgo.github.io/)
+- [https://github.com/ratsgo/embedding](https://github.com/ratsgo/embedding)
+
 
 
 
 ### I do not own any rights.
 
-Copyright acorn publishing Co., 2019. All rights reserved. 
+Copyright  © acorn publishing Co., 2019. All rights reserved. 
 
 
 
