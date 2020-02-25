@@ -1,6 +1,6 @@
 # Sentence Embeddings Using Korean Corpora(한국어 임베딩) Study
 
-<img src="https://i.imgur.com/j03ENCc.jpg" width="320" height="400"> [Official Website](https://ratsgo.github.io/)
+<img src="https://i.imgur.com/j03ENCc.jpg" width="320" height="400"> 
 
 During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 
