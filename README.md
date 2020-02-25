@@ -1,4 +1,4 @@
-# Sentence Embedding Using Korean Corpora(한국어 임베딩) Study
+# Sentence Embeddings Using Korean Corpora(한국어 임베딩) Study
 
 <img src="https://i.imgur.com/j03ENCc.jpg" width="320" height="400"> [Official Website](https://ratsgo.github.io/)
 
@@ -35,7 +35,7 @@ During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 
 - 3.3 비지도 학습 기반 형태소 분석
 
-### 04. Words Embedding
+### 04. Word Embeddings
 
 - 4.1 [NPLM](https://github.com/vctr7/NLP_Study/blob/master/ppt/NPLM.pdf)
 
@@ -53,9 +53,11 @@ During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 
 - 4.8 가중 임베딩
 
+- [Model Comparison](https://github.com/vctr7/NLP_Study/blob/master/ppt/Word%20Embedding%20Results.pdf)
 
 
-### 05. Sentences Embedding
+
+### 05. Sentence Embeddings
 
 - 5.1 LSA
 
