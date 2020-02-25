@@ -1,11 +1,10 @@
-# Korean Embedding(한국어 임베딩) Study
+# Sentence Embedding Using Korean Corpora(한국어 임베딩) Study
 
 ---
 
 <img src="https://i.imgur.com/j03ENCc.jpg" width="320" height="400"> [Official Website](https://ratsgo.github.io/)
 
-
-### During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
+During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 
 
 ---
@@ -38,7 +37,7 @@
 
 - 3.3 비지도 학습 기반 형태소 분석
 
-### 04. 단어 수준 임베딩
+### 04. Words Embedding
 
 - 4.1 [NPLM]()
 
@@ -58,9 +57,9 @@
 
 
 
-### 05. 문장수준 임베딩
+### 05. Sentences Embedding
 
-- 5.1 잠재 의미 분석
+- 5.1 LSA
 
 - 5.2 Doc2Vec
 
@@ -76,7 +75,7 @@
 
 ### 06. 임베딩 파인 튜닝
 
-- 6.1 프리트레인과 파인 튜닝
+- 6.1 Pre-train & Fine-tuning
 
 -	6.2 분류를 위한 파이프라인 만들기
 
@@ -110,15 +109,6 @@
 
 
 
-### I do not own any rights.
+ I do not own any rights.
 
 Copyright  © acorn publishing Co., 2019. All rights reserved. 
-
-
-
-
-
-
-
-
-
