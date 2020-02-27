@@ -56,7 +56,7 @@ During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 
 - 4.8 가중 임베딩
 
-- [Models Comparison]()
+- [Models Comparison](https://github.com/vctr7/NLP_Study/blob/master/ppt/Word%20Embeddings%20Result.pdf)
 
 
 
