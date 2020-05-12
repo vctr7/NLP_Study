@@ -2,7 +2,6 @@
 
 <img src="https://i.imgur.com/j03ENCc.jpg" width="320" height="400"> 
 
-During NAVER corp. Winter Internship(Jan. 2020 ~ Feb. 2020)
 
 
 ---
